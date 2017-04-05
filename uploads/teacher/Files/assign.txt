@@ -1,0 +1,11 @@
+Ans 1:
+line1
+line2
+line3
+Ans 2:
+line1
+line2
+Ans 3:
+line1
+
+
